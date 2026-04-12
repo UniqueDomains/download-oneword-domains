@@ -1,10 +1,10 @@
-# Available .DOWNLOAD One-Word Domains (9,701)
+# Available .DOWNLOAD One-Word Domains (9,702)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C702%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C701%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C702%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -14,9 +14,9 @@ Daily-updated dataset of available and resale .download one-word domains from Un
 > **Note:** this repository currently mirrors the full live catalog for this exact search.
 > Unique Domains counts can still change as the search refreshes.
 
-**Public extract:** 9,702 rows · **Live catalog:** 9,701 domains
+**Public extract:** 9,702 rows · **Live catalog:** 9,702 domains
 
-**Last updated:** 2026-04-11  
+**Last updated:** 2026-04-12  
 **Canonical page:** `https://unique.domains/domains/tld/download`  
 **Best for:** founders, investors, studios
 
@@ -65,7 +65,7 @@ print(df.head())
 | domain                | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                     |
 | --------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------------------- |
 | construction.download | available | $9.98     | —             | 66             | 30     | 12     | namecheap                     |
-| hello.download        | resell    | —         | —             | 130            | 71     | 5      | West263 International Limited |
+| hello.download        | resell    | —         | —             | 130            | 70     | 5      | West263 International Limited |
 | converse.download     | premium   | $437.50   | $62.50        | 64             | 73     | 8      | name.com                      |
 | second.download       | available | $9.98     | —             | 120            | 28     | 6      | namecheap                     |
 | get.download          | resell    | —         | —             | 88             | 69     | 3      | Porkbun                       |
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,702-row public sample | 9,701 live domains                               |
+| 9,702-row public sample | 9,702 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DOWNLOAD One-Word Domains*. Version 2026-04-11. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DOWNLOAD One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
