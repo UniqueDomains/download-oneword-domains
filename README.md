@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .download one-word domains from Un
 
 **Public extract:** 9,702 rows · **Live catalog:** 9,702 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/download`  
 **Best for:** founders, investors, studios
 
@@ -73,13 +73,13 @@ print(df.head())
 | curative.download     | available | $9.98     | —             | 92             | 27     | 8      | namecheap                     |
 | home.download         | resell    | —         | —             | 100            | 62     | 4      | Dynadot Inc                   |
 | power.download        | premium   | $455      | $65           | 98             | 62     | 5      | namecheap                     |
-| damn.download         | available | $9.98     | —             | 140            | 24     | 4      | namecheap                     |
-| best.download         | resell    | —         | —             | 82             | 53     | 4      | Porkbun                       |
-| seventeen.download    | premium   | $437.50   | $62.50        | 84             | 62     | 9      | name.com                      |
 | drink.download        | available | $9.98     | —             | 100            | 24     | 5      | namecheap                     |
+| best.download         | resell    | —         | —             | 82             | 52     | 4      | Porkbun                       |
+| seventeen.download    | premium   | $437.50   | $62.50        | 84             | 62     | 9      | name.com                      |
+| remedial.download     | available | $9.98     | —             | 86             | 24     | 8      | namecheap                     |
 | tech.download         | resell    | —         | —             | 104            | 50     | 4      | Porkbun                       |
 | cloud.download        | premium   | $3,250    | $130          | 70             | 59     | 5      | namecheap                     |
-| remedial.download     | available | $9.98     | —             | 86             | 24     | 8      | namecheap                     |
+| damn.download         | available | $9.98     | —             | 140            | 23     | 4      | namecheap                     |
 | dream.download        | resell    | —         | —             | 116            | 45     | 5      | GoDaddy.com, LLC              |
 | ace.download          | premium   | $625      | $81.25        | 88             | 57     | 3      | name.com                      |
 | debate.download       | available | $9.98     | —             | 90             | 23     | 6      | namecheap                     |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DOWNLOAD One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DOWNLOAD One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
