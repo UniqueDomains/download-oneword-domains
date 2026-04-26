@@ -1,22 +1,22 @@
-# Available .DOWNLOAD One-Word Domains (9,702)
+# Available .DOWNLOAD One-Word Domains (12,052)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C702%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C702%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C052%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .download one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .download one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **12,052 domains** on the canonical page below.
 
-**Public extract:** 9,702 rows · **Live catalog:** 9,702 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,052 domains
 
-**Last updated:** 2026-04-14  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/download`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .DOWNLOAD one-word dom
 
 ### Files
 
-- `download.csv` — public CSV extract (9,702 rows)
-- `download.json` — public JSON extract (9,702 rows)
+- `download.csv` — public CSV extract (1,000 rows)
+- `download.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain                | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                     |
-| --------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------------------- |
-| construction.download | available | $9.98     | —             | 66             | 30     | 12     | namecheap                     |
-| hello.download        | resell    | —         | —             | 130            | 70     | 5      | West263 International Limited |
-| converse.download     | premium   | $437.50   | $62.50        | 64             | 73     | 8      | name.com                      |
-| second.download       | available | $9.98     | —             | 120            | 28     | 6      | namecheap                     |
-| get.download          | resell    | —         | —             | 88             | 69     | 3      | Porkbun                       |
-| nationwide.download   | premium   | $437.50   | $62.50        | 76             | 66     | 10     | name.com                      |
-| curative.download     | available | $9.98     | —             | 92             | 27     | 8      | namecheap                     |
-| home.download         | resell    | —         | —             | 100            | 62     | 4      | Dynadot Inc                   |
-| power.download        | premium   | $455      | $65           | 98             | 62     | 5      | namecheap                     |
-| drink.download        | available | $9.98     | —             | 100            | 24     | 5      | namecheap                     |
-| best.download         | resell    | —         | —             | 82             | 52     | 4      | Porkbun                       |
-| seventeen.download    | premium   | $437.50   | $62.50        | 84             | 62     | 9      | name.com                      |
-| remedial.download     | available | $9.98     | —             | 86             | 24     | 8      | namecheap                     |
-| tech.download         | resell    | —         | —             | 104            | 50     | 4      | Porkbun                       |
-| cloud.download        | premium   | $3,250    | $130          | 70             | 59     | 5      | namecheap                     |
-| damn.download         | available | $9.98     | —             | 140            | 23     | 4      | namecheap                     |
-| dream.download        | resell    | —         | —             | 116            | 45     | 5      | GoDaddy.com, LLC              |
-| ace.download          | premium   | $625      | $81.25        | 88             | 57     | 3      | name.com                      |
-| debate.download       | available | $9.98     | —             | 90             | 23     | 6      | namecheap                     |
-| super.download        | resell    | —         | —             | 58             | 45     | 5      | 1API GmbH                     |
+| domain               | status    | ask_price | renewal_price | attractiveness | demand | length | registrar     |
+| -------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------- |
+| boats.download       | available | $9.98     | —             | 52             | 24     | 5      | namecheap     |
+| systems.download     | resell    | —         | —             | 46             | 27     | 7      | NameSilo, LLC |
+| donuts.download      | premium   | $437.50   | —             | 54             | 62     | 6      | name.com      |
+| investors.download   | available | $9.98     | —             | 60             | 23     | 9      | namecheap     |
+| travelers.download   | premium   | $437.50   | —             | 58             | 61     | 9      | name.com      |
+| veterans.download    | available | $9.98     | —             | 56             | 23     | 8      | namecheap     |
+| robots.download      | premium   | $437.50   | —             | 62             | 47     | 6      | name.com      |
+| unicorns.download    | available | $9.98     | —             | 73             | 21     | 8      | namecheap     |
+| jobs.download        | premium   | $625      | —             | 79             | 42     | 4      | name.com      |
+| workers.download     | available | $9.98     | —             | 60             | 20     | 7      | namecheap     |
+| shortcuts.download   | premium   | $437.50   | —             | 48             | 41     | 10     | name.com      |
+| managed.download     | available | $9.98     | —             | 58             | 20     | 7      | namecheap     |
+| justin.download      | premium   | $437.50   | —             | 58             | 38     | 7      | name.com      |
+| clients.download     | available | $5.25     | $6.25         | 58             | 20     | 7      | namesilo      |
+| WiFi.download        | premium   | $700      | $91           | 83             | 37     | 5      | namecheap     |
+| watches.download     | available | $9.98     | —             | 84             | 19     | 7      | namecheap     |
+| aliens.download      | premium   | $116      | $29.50        | 56             | 35     | 6      | namesilo      |
+| computers.download   | available | $9.98     | —             | 68             | 19     | 9      | namecheap     |
+| trends.download      | premium   | $437.50   | —             | 60             | 32     | 6      | name.com      |
+| communities.download | available | $9.98     | —             | 68             | 19     | 11     | namecheap     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,702-row public sample | 9,702 live domains                               |
+| 1,000-row public sample | 12,052 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DOWNLOAD One-Word Domains*. Version 2026-04-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DOWNLOAD One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
