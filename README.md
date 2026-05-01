@@ -1,10 +1,10 @@
-# Available .DOWNLOAD One-Word Domains (12,052)
+# Available .DOWNLOAD One-Word Domains (12,644)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C052%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C644%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .download one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **12,052 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **12,644 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,052 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,644 domains
 
-**Last updated:** 2026-04-26  
+**Last updated:** 2026-05-01  
 **Canonical page:** `https://unique.domains/domains/tld/download`  
 **Best for:** founders, investors, studios
 
@@ -64,11 +64,9 @@ print(df.head())
 
 | domain               | status    | ask_price | renewal_price | attractiveness | demand | length | registrar     |
 | -------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------- |
-| boats.download       | available | $9.98     | —             | 52             | 24     | 5      | namecheap     |
+| investors.download   | available | $9.98     | —             | 60             | 23     | 9      | namecheap     |
 | systems.download     | resell    | —         | —             | 46             | 27     | 7      | NameSilo, LLC |
 | donuts.download      | premium   | $437.50   | —             | 54             | 62     | 6      | name.com      |
-| investors.download   | available | $9.98     | —             | 60             | 23     | 9      | namecheap     |
-| travelers.download   | premium   | $437.50   | —             | 58             | 61     | 9      | name.com      |
 | veterans.download    | available | $9.98     | —             | 56             | 23     | 8      | namecheap     |
 | robots.download      | premium   | $437.50   | —             | 62             | 47     | 6      | name.com      |
 | unicorns.download    | available | $9.98     | —             | 73             | 21     | 8      | namecheap     |
@@ -79,11 +77,13 @@ print(df.head())
 | justin.download      | premium   | $437.50   | —             | 58             | 38     | 7      | name.com      |
 | clients.download     | available | $5.25     | $6.25         | 58             | 20     | 7      | namesilo      |
 | WiFi.download        | premium   | $700      | $91           | 83             | 37     | 5      | namecheap     |
-| watches.download     | available | $9.98     | —             | 84             | 19     | 7      | namecheap     |
-| aliens.download      | premium   | $116      | $29.50        | 56             | 35     | 6      | namesilo      |
 | computers.download   | available | $9.98     | —             | 68             | 19     | 9      | namecheap     |
-| trends.download      | premium   | $437.50   | —             | 60             | 32     | 6      | name.com      |
+| aliens.download      | premium   | $116      | $29.50        | 56             | 35     | 6      | namesilo      |
 | communities.download | available | $9.98     | —             | 68             | 19     | 11     | namecheap     |
+| solutions.download   | premium   | $437.50   | —             | 56             | 31     | 9      | name.com      |
+| motors.download      | available | $5.25     | $6.25         | 50             | 18     | 6      | namesilo      |
+| slots.download       | premium   | $1,107    | $116          | 49             | 31     | 5      | namesilo      |
+| Containers.download  | available | $5.25     | $6.25         | 54             | 17     | 10     | namesilo      |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 12,052 live domains                              |
+| 1,000-row public sample | 12,644 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DOWNLOAD One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DOWNLOAD One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
