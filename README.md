@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .download one-word domains 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,646 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,646 domains · **Median ask:** $299.79 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,646 domains · **Median ask:** $395.31 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/download`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/download`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .DOWNLOAD one-word dom
 
 ### Files
 
-- `download.csv` — public CSV extract (1,000 rows)
-- `download.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `download.csv`, public CSV extract (1,000 rows)
+- `download.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain               | status    | ask_price | renewal_price | attractiveness | demand | length | registrar     |
-| -------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------- |
-| investors.download   | available | $9.98     | —             | 60             | 23     | 9      | namecheap     |
-| systems.download     | resell    | —         | —             | 46             | 27     | 7      | NameSilo, LLC |
-| donuts.download      | premium   | $437.50   | —             | 54             | 62     | 6      | name.com      |
-| veterans.download    | available | $9.98     | —             | 56             | 23     | 8      | namecheap     |
-| robots.download      | premium   | $437.50   | —             | 62             | 47     | 6      | name.com      |
-| unicorns.download    | available | $9.98     | —             | 73             | 21     | 8      | namecheap     |
-| jobs.download        | premium   | $625      | —             | 79             | 42     | 4      | name.com      |
-| workers.download     | available | $9.98     | —             | 60             | 20     | 7      | namecheap     |
-| shortcuts.download   | premium   | $437.50   | —             | 48             | 41     | 10     | name.com      |
-| managed.download     | available | $9.98     | —             | 58             | 20     | 7      | namecheap     |
-| justin.download      | premium   | $437.50   | —             | 58             | 38     | 7      | name.com      |
-| clients.download     | available | $5.25     | $6.25         | 58             | 20     | 7      | namesilo      |
-| WiFi.download        | premium   | $700      | $91           | 83             | 37     | 5      | namecheap     |
-| computers.download   | available | $9.98     | —             | 68             | 19     | 9      | namecheap     |
-| aliens.download      | premium   | $116      | $29.50        | 56             | 35     | 6      | namesilo      |
-| communities.download | available | $9.98     | —             | 68             | 19     | 11     | namecheap     |
-| solutions.download   | premium   | $437.50   | —             | 56             | 31     | 9      | name.com      |
-| motors.download      | available | $5.25     | $6.25         | 50             | 18     | 6      | namesilo      |
-| slots.download       | premium   | $1,107    | $116          | 49             | 31     | 5      | namesilo      |
-| Containers.download  | available | $5.25     | $6.25         | 54             | 17     | 10     | namesilo      |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                       |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------- |
+| bath.download    | available | $5.25     | $6.25         | high           | low    | 4      | namesilo                        |
+| audio.download   | resell    | —         | —             | high           | low    | 5      | West263 International Limited   |
+| all.download     | premium   | $625      | $81.25        | high           | medium | 3      | name.com                        |
+| DSLR.download    | available | $5.25     | $6.25         | high           | low    | 4      | namesilo                        |
+| image.download   | resell    | —         | —             | high           | medium | 5      | TuringSign Inc. d/b/a Cosmotown |
+| BBC.download     | premium   | $625      | —             | high           | medium | 3      | name.com                        |
+| rang.download    | available | $5.25     | $6.25         | low            | low    | 4      | namesilo                        |
+| thought.download | resell    | —         | —             | high           | low    | 7      | Porkbun                         |
+| bce.download     | premium   | $625      | —             | medium         | low    | 3      | name.com                        |
+| xiii.download    | available | $5.25     | $6.25         | medium         | low    | 4      | namesilo                        |
+| bed.download     | premium   | $625      | —             | high           | low    | 3      | name.com                        |
+| abaft.download   | available | $9.98     | —             | medium         | low    | 5      | namecheap                       |
+| ben.download     | premium   | $625      | —             | high           | medium | 3      | name.com                        |
+| alley.download   | available | $5.25     | $6.25         | medium         | low    | 5      | namesilo                        |
+| boo.download     | premium   | $625      | —             | high           | low    | 3      | name.com                        |
+| baggy.download   | available | $5.25     | $6.25         | high           | low    | 5      | namesilo                        |
+| cap.download     | premium   | $625      | —             | high           | low    | 3      | name.com                        |
+| bared.download   | available | $5.25     | $6.25         | medium         | low    | 5      | namesilo                        |
+| cup.download     | premium   | $625      | —             | high           | low    | 3      | name.com                        |
+| bland.download   | available | $5.25     | $6.25         | medium         | low    | 5      | namesilo                        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-These domains are all one-word names on the .download extension. That makes the selection highly specific: the best fits are words that pair cleanly with file delivery, software access, media, assets, guides, or content people expect to download. Names like showcase.download, onboard.download, and class.download read more naturally than words with weaker download intent. When comparing these domains, focus first on semantic fit with the extension, then on spelling accuracy, memorability, and pricing discipline. The median ask is $299.79, which keeps many options in an accessible range, but weaker word-extension matches can still be harder to justify or resell.
+This set of one-word .download domain names covers 12,646 options with a median ask near $395. Names range from direct terms like presents.download and preferences.download to inventive combinations such as turninto.download and letitbe.download — all suited to file-sharing, software, and content-download brands. Compare price against renewal and brandability before you pick a name for your project or portfolio.
 
-- Best fit: words that make sense with a download action
-- Median ask is $299.79 across this .download selection
-- Check spelling closely: calender.download raises clarity risk
-- Stronger names read naturally, like showcase.download
+- 12,646 one-word .download domains available
+- Median ask near $395 across the set
+- Short, ownable names like Apples.download, FabFour.download
+- Updated daily for fresh pricing and availability
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DOWNLOAD One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DOWNLOAD One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
