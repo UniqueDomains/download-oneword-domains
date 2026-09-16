@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .download one-word domains 
 
 **Public extract:** 1,000 rows · **Live catalog:** 25,401 domains · **Median ask:** $243.56 · **High-demand under $2,500:** 29
 
-**Last updated:** 2026-09-15
+**Last updated:** 2026-09-16
 **Canonical page:** `https://unique.domains/domains/tld/download`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                       |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------- |
-| bald.download    | available | $5.25     | $6.25         | low            | low    | 4      | namesilo                        |
-| audio.download   | resell    | —         | —             | high           | low    | 5      | West263 International Limited   |
-| all.download     | premium   | $625      | $81.25        | high           | medium | 3      | name.com                        |
-| bath.download    | available | $5.25     | $6.25         | high           | low    | 4      | namesilo                        |
-| image.download   | resell    | —         | —             | medium         | medium | 5      | TuringSign Inc. d/b/a Cosmotown |
-| arc.download     | premium   | $625      | $81.25        | medium         | medium | 3      | name.com                        |
-| DSLR.download    | available | $5.25     | $6.25         | high           | low    | 4      | namesilo                        |
-| thought.download | resell    | —         | —             | high           | low    | 7      | Porkbun                         |
-| BBC.download     | premium   | $640      | $77.35        | high           | medium | 3      | namesilo                        |
-| lvii.download    | available | $5.25     | $6.25         | low            | low    | 4      | namesilo                        |
-| bce.download     | premium   | $625      | —             | medium         | low    | 3      | name.com                        |
-| rang.download    | available | $5.25     | $6.25         | low            | low    | 4      | namesilo                        |
-| bed.download     | premium   | $625      | —             | high           | low    | 3      | name.com                        |
-| xiii.download    | available | $5.25     | $6.25         | medium         | low    | 4      | namesilo                        |
-| ben.download     | premium   | $625      | —             | high           | medium | 3      | name.com                        |
-| abaft.download   | available | $5.25     | $6.25         | low            | low    | 5      | namesilo                        |
-| boo.download     | premium   | $625      | —             | high           | low    | 3      | name.com                        |
-| algal.download   | available | $5.25     | $6.25         | low            | low    | 5      | namesilo                        |
-| cap.download     | premium   | $625      | —             | high           | low    | 3      | name.com                        |
-| alley.download   | available | $5.25     | $6.25         | medium         | low    | 5      | namesilo                        |
+| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                       |
+| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------- |
+| out.download       | premium   | $625      | —             | high           | low    | 3      | name.com                        |
+| christmas.download | premium   | $625      | —             | high           | low    | 9      | name.com                        |
+| bald.download      | available | $5.25     | $6.25         | low            | low    | 4      | namesilo                        |
+| audio.download     | resell    | —         | —             | high           | low    | 5      | West263 International Limited   |
+| all.download       | premium   | $625      | $81.25        | high           | medium | 3      | name.com                        |
+| bath.download      | available | $5.25     | $6.25         | high           | low    | 4      | namesilo                        |
+| image.download     | resell    | —         | —             | medium         | medium | 5      | TuringSign Inc. d/b/a Cosmotown |
+| arc.download       | premium   | $625      | $81.25        | medium         | medium | 3      | name.com                        |
+| DSLR.download      | available | $5.25     | $6.25         | high           | low    | 4      | namesilo                        |
+| thought.download   | resell    | —         | —             | high           | low    | 7      | Porkbun                         |
+| BBC.download       | premium   | $640      | $77.35        | high           | medium | 3      | namesilo                        |
+| lvii.download      | available | $5.25     | $6.25         | low            | low    | 4      | namesilo                        |
+| bce.download       | premium   | $625      | —             | medium         | low    | 3      | name.com                        |
+| rang.download      | available | $5.25     | $6.25         | low            | low    | 4      | namesilo                        |
+| bed.download       | premium   | $625      | —             | high           | low    | 3      | name.com                        |
+| xiii.download      | available | $5.25     | $6.25         | medium         | low    | 4      | namesilo                        |
+| ben.download       | premium   | $625      | —             | high           | medium | 3      | name.com                        |
+| abaft.download     | available | $5.25     | $6.25         | low            | low    | 5      | namesilo                        |
+| boo.download       | premium   | $625      | —             | high           | low    | 3      | name.com                        |
+| algal.download     | available | $5.25     | $6.25         | low            | low    | 5      | namesilo                        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -115,6 +115,7 @@ If this sample already feels useful, Unique Domains is where the exact search be
 - `registrar`, Registrar name when known.
 - `created_at`, Creation timestamp when known.
 - `expires_at`, Expiry timestamp when known.
+- `status_verified_at`, When status was last established against the registry. Null means never checked.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
@@ -132,6 +133,7 @@ See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 ## 🔄 Update policy
 
 - This repository is refreshed regularly from the same export pipeline used for public dataset repos.
+- The snapshot date above is when this file was written, not when each row was checked. Read `status_verified_at` for that: a name whose status was last established months ago is exported with its real date rather than the snapshot's.
 - The README count targets the live catalog count from the public landing response when available.
 - The CSV and JSON files contain the public extract only and may not match the full live catalog size.
 - Stable historical references should be published via GitHub Releases outside this repository snapshot.
@@ -142,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DOWNLOAD One-Word Domains*. Version 2026-09-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DOWNLOAD One-Word Domains*. Version 2026-09-16. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
