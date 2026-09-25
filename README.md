@@ -1,10 +1,10 @@
-# Available .DOWNLOAD One-Word Domains (32,440)
+# Available .DOWNLOAD One-Word Domains (14,451)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-32%2C440%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-14%2C451%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .download one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **32,440 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **14,451 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 32,440 domains · **Median ask:** $227.88 · **High-demand under $2,500:** 25
+**Public extract:** 1,000 rows · **Live catalog:** 14,451 domains · **Median ask:** $288.62 · **High-demand under $2,500:** 21
 
-**Last updated:** 2026-09-24
+**Last updated:** 2026-09-25
 **Canonical page:** `https://unique.domains/domains/tld/download`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                       |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------- |
-| bald.download    | available | $5.25     | $6.25         | low            | low    | 4      | namesilo                        |
-| audio.download   | resell    | —         | —             | high           | low    | 5      | West263 International Limited   |
-| all.download     | premium   | $650      | $84.50        | medium         | low    | 3      | namecheap                       |
-| bath.download    | available | $5.25     | $6.25         | high           | low    | 4      | namesilo                        |
-| image.download   | resell    | —         | —             | medium         | low    | 5      | TuringSign Inc. d/b/a Cosmotown |
-| arc.download     | premium   | $625      | $81.25        | medium         | medium | 3      | name.com                        |
-| dslr.download    | available | $5.25     | $6.25         | high           | low    | 4      | namesilo                        |
-| thought.download | resell    | —         | —             | high           | low    | 7      | Porkbun                         |
-| bce.download     | premium   | $625      | —             | medium         | low    | 3      | name.com                        |
-| lvii.download    | available | $5.25     | $6.25         | low            | low    | 4      | namesilo                        |
-| bed.download     | premium   | $625      | —             | high           | low    | 3      | name.com                        |
-| rang.download    | available | $5.25     | $6.25         | low            | low    | 4      | namesilo                        |
-| ben.download     | premium   | $625      | —             | high           | medium | 3      | name.com                        |
-| xiii.download    | available | $5.25     | $6.25         | low            | low    | 4      | namesilo                        |
-| boo.download     | premium   | $625      | —             | high           | low    | 3      | name.com                        |
-| abaft.download   | available | $5.25     | $6.25         | low            | low    | 5      | namesilo                        |
-| cap.download     | premium   | $625      | —             | high           | low    | 3      | name.com                        |
-| algal.download   | available | $5.25     | $6.25         | low            | low    | 5      | namesilo                        |
-| cup.download     | premium   | $640      | $77.35        | medium         | low    | 3      | namesilo                        |
-| alley.download   | available | $5.25     | $6.25         | medium         | low    | 5      | namesilo                        |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                     |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------------------- |
+| agog.download    | available | $5.98     | $9.98         | high           | low    | 4      | namecheap                     |
+| city.download    | resell    | —         | —             | high           | medium | 4      | Dynadot Inc                   |
+| arc.download     | premium   | $625      | $81.25        | high           | medium | 3      | name.com                      |
+| bald.download    | available | $5.25     | $6.25         | medium         | low    | 4      | namesilo                      |
+| audio.download   | resell    | —         | —             | high           | low    | 5      | West263 International Limited |
+| arm.download     | premium   | $625      | —             | high           | medium | 3      | name.com                      |
+| bath.download    | available | $5.25     | $6.25         | high           | low    | 4      | namesilo                      |
+| thought.download | resell    | —         | —             | high           | low    | 7      | Porkbun                       |
+| atp.download     | premium   | $625      | —             | high           | low    | 3      | name.com                      |
+| brow.download    | available | $9.98     | —             | high           | low    | 4      | namecheap                     |
+| aug.download     | premium   | $625      | $81.25        | high           | low    | 3      | name.com                      |
+| bury.download    | available | $5.25     | $6.25         | high           | low    | 4      | namesilo                      |
+| bce.download     | premium   | $625      | —             | high           | low    | 3      | name.com                      |
+| chin.download    | available | $5.25     | $6.25         | high           | low    | 4      | namesilo                      |
+| bed.download     | premium   | $625      | —             | high           | low    | 3      | name.com                      |
+| dslr.download    | available | $5.25     | $6.25         | high           | low    | 4      | namesilo                      |
+| ben.download     | premium   | $625      | —             | high           | medium | 3      | name.com                      |
+| isbn.download    | available | $5.25     | $6.25         | high           | low    | 4      | namesilo                      |
+| bid.download     | premium   | $625      | —             | high           | low    | 3      | name.com                      |
+| rang.download    | available | $5.25     | $6.25         | medium         | low    | 4      | namesilo                      |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 32,440 live domains                        |
+| 1,000-row public sample | 14,451 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 25 high-demand names under $2,500          |
+| Basic exported fields   | 21 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DOWNLOAD One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DOWNLOAD One-Word Domains*. Version 2026-09-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
