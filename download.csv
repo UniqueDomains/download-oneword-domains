@@ -4,6 +4,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 4a8458e0-e83f-4edc-8fd8-7c61fd9bb9b4,austenite.download,available,5.25,6.25,medium,low,9,namesilo,,,21/09/2026 04:39
 e404731e-17b7-4add-a25c-892d130edd53,planned.download,available,5.25,6.25,high,low,7,namesilo,,,21/09/2026 22:06
 0de43d73-86b0-48f2-8c37-b610ff402f7a,ccc.download,premium,625,81.25,high,medium,3,name.com,,,
+b240ec8b-ea29-4856-9003-e7643099dcda,cares.download,premium,455,65,medium,low,5,namecheap,,,27/09/2026 02:10
 5b696b83-5923-4cc9-9a70-926464443208,clxx.download,available,5.25,6.25,medium,low,4,namesilo,,,
 676f2489-2c68-41d4-b942-dd64c4f93925,expendable.download,available,5.98,9.98,high,low,10,namecheap,,,17/08/2026 18:08
 8b73ebb5-57ed-4a46-8c97-721b7de4fcc8,returning.download,premium,437.5,,high,low,9,name.com,,,
@@ -65,6 +66,7 @@ dc644247-5d00-44ba-a543-e72b240c4b55,beck.download,premium,455,65,high,low,4,nam
 34105fcd-211c-475a-bbc8-446ff3316163,autosexing.download,available,5.25,6.25,medium,low,10,namesilo,,,21/09/2026 07:42
 d905e89f-95db-4ced-b10b-d259bee2ca9c,ambition.download,premium,448,53.92,high,low,8,namesilo,,,18/09/2026 16:53
 827e08c1-5f04-40fc-ad3c-cd2a3317f19b,cloudburst.download,premium,448,53.92,high,low,10,namesilo,,,24/09/2026 16:03
+98963768-d2d1-4459-a5c9-749001f730ca,noah.download,premium,6900,116,high,medium,4,namesilo,,,27/09/2026 04:52
 4c4ad7bb-ff96-4256-97a4-5be0c2e8570e,objector.download,available,5.25,6.25,medium,low,8,namesilo,,,14/08/2026 12:43
 01b239dd-62b7-4ad0-bc98-131ce9fb3b9a,contextual.download,premium,437.5,62.5,high,low,10,name.com,,,12/08/2026 23:13
 7e67d13d-437b-4349-800c-8260c9fd5777,birthrate.download,available,5.98,9.98,high,low,9,namecheap,,,23/09/2026 20:56
@@ -125,7 +127,7 @@ e8c61812-4624-4fd4-9478-95709140a64e,toupeed.download,available,5.98,9.98,low,lo
 3c845eab-135e-4af3-89db-316523fa2e1f,affiliated.download,premium,437.5,62.5,high,low,10,name.com,,,
 7a3133a7-0165-4a08-9aa0-71bb19067e91,provisions.download,premium,448,53.92,high,low,10,namesilo,,,08/09/2026 08:15
 b27858c4-80a1-4dc9-89cd-8026685faea6,adaptor.download,premium,448,53.92,high,low,7,namesilo,,,17/09/2026 06:32
-2f8b6cff-7e0a-49d1-a938-af3443ec2b2d,specific.download,premium,116,29.5,high,low,8,namesilo,,,
+2f8b6cff-7e0a-49d1-a938-af3443ec2b2d,specific.download,premium,130,32.5,high,low,8,namecheap,,,27/09/2026 02:45
 33d0dbc6-4889-4f53-afad-26d451302d69,phosphorus.download,available,5.25,6.25,medium,low,10,namesilo,,,20/09/2026 22:25
 d632cd79-a402-468d-8a1c-49af9be52693,ammonium.download,available,5.25,6.25,high,low,8,namesilo,,,18/09/2026 22:10
 502ecc44-c5e3-4b9c-861e-afc40cadf8e3,against.download,available,5.25,6.25,medium,low,7,namesilo,,,
@@ -161,6 +163,7 @@ feb79545-e926-4d28-b54c-99e3ce3b205b,overladen.download,available,5.98,9.98,medi
 d951e1fd-341d-47a0-aa90-d0ba2c1f7c65,cheeses.download,available,5.25,6.25,high,low,7,namesilo,,,
 b2a4e833-adac-4050-acc6-509bf26b795c,malar.download,available,5.25,6.25,medium,low,5,namesilo,,,13/09/2026 15:43
 7eb1f74d-f977-4b8c-86b3-9f3fb9458487,planetarium.download,premium,437.5,,high,low,11,name.com,,,
+828f7268-0911-464a-9237-27c99e56a074,fur.download,premium,640,77.35,high,low,3,namesilo,,,27/09/2026 04:05
 ebbaa493-34b6-4cfb-bb16-d6a394d306ab,aralia.download,premium,448,53.92,medium,low,6,namesilo,,,19/09/2026 23:52
 cbe2b9b1-00fa-4b98-8e1b-14baf5924e50,draft.download,premium,455,65,high,low,5,namecheap,,,23/09/2026 16:03
 aef20b65-e001-4994-a0ae-5005670146e5,contest.download,premium,437.5,,high,low,7,name.com,,,
@@ -198,6 +201,7 @@ a31ebce4-d936-425c-9de6-40c4d6712c39,drilled.download,available,5.98,9.98,medium
 96103f29-00f3-4c7f-8305-40ee2e0c65ac,shin.download,premium,437.5,,high,low,4,name.com,,,
 467d82eb-267f-4bd3-82ad-5c1848c465e5,bare.download,premium,448,53.92,high,low,4,namesilo,,,22/09/2026 11:54
 5894489d-1dbb-4e88-bac1-f52413c8b7bf,disraeli.download,available,5.25,6.25,medium,low,8,namesilo,,,23/09/2026 08:17
+c96077da-693b-4072-956e-5815224a2f53,heels.download,available,5.25,6.25,high,low,5,namesilo,,,27/09/2026 10:19
 f785ef4f-714a-47a6-9983-ebcea4abb4eb,secrecy.download,available,5.25,6.25,high,low,7,namesilo,,,24/09/2026 17:03
 87e1d85e-5876-4a8a-8c81-7f99b39dcc9c,amonra.download,available,5.98,9.98,medium,low,7,namecheap,,,18/09/2026 18:34
 ed99150c-280b-4c66-9e9e-66ebb7e5e718,apothecium.download,available,5.98,9.98,medium,low,10,namecheap,,,19/09/2026 19:43
@@ -223,6 +227,7 @@ e3b35d91-a833-4fc2-8f04-38d7b799532c,earthworm.download,premium,455,65,high,low,
 67923007-d35e-4785-bfad-24d2a6ed31ed,victor.download,premium,437.5,,high,medium,6,name.com,,,
 ea9c08cd-a715-46f4-890d-7e8c8648cd49,nonzero.download,available,5.25,6.25,high,low,8,namesilo,,,03/09/2026 18:39
 c7d1ca45-7200-4618-9e7a-09623a4b0cde,actinide.download,available,5.25,6.25,medium,low,8,namesilo,,,
+7a41b265-3c9f-4a6e-bb47-1d8748d4cd7e,olson.download,premium,448,53.92,medium,low,5,namesilo,,,27/09/2026 01:46
 4acf882b-6675-431f-a933-25774e6afbb4,beheaded.download,available,5.25,6.25,medium,low,8,namesilo,,,09/08/2026 10:21
 2b405024-9dcd-4ddc-b226-1e5190e4e739,biometrics.download,premium,455,65,high,low,10,namecheap,,,23/09/2026 18:33
 fc414691-712b-4288-ab56-06932a8c1eef,possibilities.download,premium,448,53.92,medium,low,13,namesilo,,,16/09/2026 10:01
@@ -257,6 +262,7 @@ b4a8560a-7bf6-403f-9f3e-218c04addffb,fizzing.download,available,5.25,6.25,medium
 71c4937c-8588-4bf5-94f7-4f18f9404840,leukaemia.download,available,5.25,6.25,medium,low,9,namesilo,,,24/09/2026 11:59
 806a9b8e-4cf6-48e0-bc91-3c5aebda3a60,argentine.download,available,,,high,high,9,,,,
 7bee2b0e-a572-4d3d-bd1e-e77619357039,talent.download,premium,625,,high,medium,6,name.com,,,
+0f9d99be-c4f9-4b06-b500-283324902a33,norte.download,available,5.25,6.25,high,low,5,namesilo,,,27/09/2026 07:02
 a1e4d7e1-60e6-45ac-885a-818df385c272,incoherent.download,available,5.25,6.25,medium,low,10,namesilo,,,22/08/2026 01:42
 d2c1094d-f04b-4fdf-82e5-50d200629839,cattle.download,available,5.25,6.25,high,low,6,namesilo,,,25/09/2026 01:59
 ede57280-fd53-46f7-9d3e-946c3ad165a6,binding.download,premium,455,65,high,low,7,namecheap,,,22/09/2026 20:51
@@ -349,7 +355,7 @@ aa21a8b8-28d0-4e81-8cc9-54badc905c91,pour.download,premium,437.5,,high,low,4,nam
 ddff0a87-4d14-4999-a856-d23822ad1cad,aotus.download,available,5.25,6.25,medium,low,5,namesilo,,,19/09/2026 16:05
 f89411a3-710f-4441-8eb6-761d61b0dd63,halal.download,premium,116,29.5,high,low,5,namesilo,,,20/08/2026 22:18
 f47a6318-d7d4-443b-9726-08ea145e0d47,abscissa.download,available,5.25,6.25,medium,low,8,namesilo,,,16/09/2026 17:32
-492d292e-d793-499f-ab02-cf60facd8b04,fix.download,premium,625,,high,low,3,name.com,,,
+492d292e-d793-499f-ab02-cf60facd8b04,fix.download,premium,640,77.35,high,low,3,namesilo,,,27/09/2026 10:10
 8fbeca64-46af-4299-8c26-e8c6dfe3d794,hill.download,premium,625,,high,low,4,name.com,,,
 313df7f7-c0ab-4fe4-94c2-ebdd14b3c6bf,motor.download,premium,455,65,high,low,5,namecheap,,,25/09/2026 21:51
 2ef5fa16-8669-4741-90f0-3ec5ac347073,melted.download,premium,437.5,62.5,high,low,6,name.com,,,23/08/2026 23:37
@@ -378,6 +384,7 @@ efc4d647-10be-4d0a-8850-417b43f0de7f,barcarole.download,premium,448,53.92,high,l
 49bfb0b0-3ad6-4aec-ac39-441e26344e5e,ruckle.download,available,5.25,6.25,medium,low,6,namesilo,,,13/08/2026 07:12
 3c17a487-5c8f-48d4-bd8b-80f9f65112ee,adulterate.download,available,5.25,6.25,medium,low,10,namesilo,,,
 2cc6e19f-dc54-4517-86d2-91111097a359,plantal.download,available,5.25,6.25,medium,low,7,namesilo,,,08/09/2026 20:48
+24d7e8a0-268e-424a-a583-8079a06e02e1,meets.download,available,5.25,6.25,high,low,5,namesilo,,,27/09/2026 06:26
 7a58e820-724d-4bee-8d9c-6485e9f1df7e,avo.download,premium,640,77.35,high,low,3,namesilo,,,21/09/2026 09:36
 c258f9d9-e4c6-436a-ad74-6779d7b6b235,serrated.download,available,5.25,6.25,medium,low,8,namesilo,,,03/09/2026 22:08
 07c79981-487c-4064-b4b9-0e3aa3edc1da,nice.download,premium,6900,116,high,medium,4,namesilo,,,24/09/2026 00:45
@@ -473,6 +480,7 @@ d6e8e0f2-1945-43c6-bbe2-2959aeaf35cd,virile.download,premium,448,53.92,high,low,
 93a5480c-9e15-4e1d-b9e9-6a2d9b668db9,accursed.download,available,5.25,6.25,medium,low,8,namesilo,,,
 f2191be3-79a7-427f-b5b0-4260f1598076,rubbery.download,available,5.98,9.98,medium,low,7,namecheap,,,20/08/2026 20:09
 c9c43765-2c75-4384-bc4f-5c58041ec72f,untold.download,premium,448,53.92,high,low,6,namesilo,,,12/09/2026 21:37
+b5e4ced4-2d47-4968-a84a-1c0e317c95ce,cleaned.download,available,5.25,6.25,high,low,7,namesilo,,,27/09/2026 02:45
 3e16f498-a535-45b6-943e-5af4b4ea69cf,cooke.download,premium,448,53.92,high,low,5,namesilo,,,18/09/2026 06:21
 63708f0f-b253-4d7f-9603-384c10957a24,contestant.download,premium,437.5,62.5,medium,low,10,name.com,,,14/08/2026 12:45
 cfb136c2-77e9-4007-835b-fea27b3ffacd,beechnut.download,premium,437.5,62.5,medium,low,8,name.com,,,23/09/2026 00:13
@@ -488,7 +496,7 @@ c02ed110-07f8-4390-b712-ef3fd0db6af5,brimful.download,available,5.25,6.25,high,l
 604f9438-6b47-4952-b383-a9bffa9ba49d,adhere.download,premium,448,53.92,high,low,6,namesilo,,,23/09/2026 17:04
 ece19910-a46a-42ec-aeae-4dce53af909c,seductive.download,premium,448,53.92,high,low,9,namesilo,,,10/09/2026 01:39
 e3a90255-043c-45fd-8941-00c4301d9fd6,belfry.download,available,5.25,6.25,high,low,6,namesilo,,,23/09/2026 04:56
-b68cc109-1a85-490f-893d-099d7000d219,wired.download,premium,437.5,,high,low,5,name.com,,,
+b68cc109-1a85-490f-893d-099d7000d219,wired.download,premium,448,53.92,high,low,5,namesilo,,,27/09/2026 08:11
 79959389-141c-4bde-84fd-3ce11464612f,exactly.download,available,5.98,9.98,high,low,7,namecheap,,,26/09/2026 00:15
 6697c2f6-1760-481f-90da-777394f408ca,touchy.download,available,5.25,6.25,medium,low,6,namesilo,,,21/08/2026 14:42
 2f2fcf51-2412-4589-815b-9c1a0ccd42b8,bailor.download,available,5.98,9.98,medium,low,6,namecheap,,,21/09/2026 19:14
@@ -577,6 +585,7 @@ a3577ecd-705a-4ff6-85e1-d094fcaae523,bel.download,premium,640,77.35,high,low,3,n
 b822978a-fddb-4691-ba6a-b92764738351,thinks.download,available,5.25,6.25,high,low,6,namesilo,,,18/09/2026 15:23
 78875b23-cd0e-435e-bbd1-7cb01001e0a2,bulk.download,premium,625,,high,low,4,name.com,,,
 a564fd8e-a5f6-4512-b709-7c146c620500,chickpea.download,premium,448,53.92,high,low,8,namesilo,,,24/09/2026 14:29
+3c455ced-fa20-4d26-b988-825e476feaa9,claus.download,available,5.25,6.25,medium,low,5,namesilo,,,27/09/2026 02:28
 d9fa8ec9-3ab1-442a-96b5-250255923b02,reference.download,premium,625,,high,low,9,name.com,,,
 73667587-992a-4760-9cf5-f9df3ca93665,provision.download,premium,437.5,,high,low,9,name.com,,,
 5b8ba7ad-6d02-46ea-8834-b7c17cb8534b,bucks.download,premium,116,29.5,high,low,5,namesilo,,,25/09/2026 13:26
@@ -629,11 +638,13 @@ db07f835-96a5-43e8-890b-20905840b688,taal.download,premium,437.5,62.5,high,low,4
 81ebe3c2-b8b8-47c4-ba3c-d223c918158d,acyl.download,available,5.25,6.25,medium,low,4,namesilo,,,17/09/2026 05:49
 62742922-9bd4-44f8-89cd-d0d341b482e1,damaging.download,available,34.99,37.99,medium,low,8,name.com,,,13/08/2026 16:05
 84040e77-1ce2-47ff-a6b3-f953022d587c,baloney.download,available,5.25,6.25,medium,low,7,namesilo,,,21/09/2026 23:43
+a0b0c3e8-7b4c-45eb-b44f-7a8b4b3729f4,lil.download,premium,640,77.35,high,low,3,namesilo,,,27/09/2026 06:06
 329c5f56-2d57-4ad1-ba54-1a4635630892,grindle.download,available,5.98,9.98,medium,low,7,namecheap,,,18/09/2026 21:21
 cdcc150b-f5e8-4f83-8549-8125f8ee77d6,heidelberg.download,premium,455,65,high,low,10,namecheap,,,25/09/2026 16:09
 2b9b7b2a-302b-4b30-a9fe-31771983967f,bellarmine.download,available,5.25,6.25,medium,low,10,namesilo,,,23/09/2026 05:54
 42005a1a-c45c-4e45-bd60-ba764cb250cd,dubious.download,premium,437.5,62.5,high,low,7,name.com,,,14/08/2026 16:57
 4d52405a-cdb7-436f-bdd0-5c1bd673d465,exportable.download,available,5.25,6.25,high,low,10,namesilo,,,17/08/2026 18:35
+9eaace18-1cfa-4feb-8206-cf20b71ab80c,sgt.download,premium,640,77.35,high,low,3,namesilo,,,27/09/2026 06:19
 5e17bd3b-5e10-4506-b07a-9c7789ad356a,oks.download,premium,650,84.5,high,low,3,namecheap,,,21/09/2026 06:13
 0848d950-909f-4499-af63-22df23843f45,satiric.download,available,5.25,6.25,high,low,7,namesilo,,,09/09/2026 21:51
 cd3f9aba-837a-4682-ad2f-a189274bfc2a,monotone.download,premium,437.5,62.5,high,low,8,name.com,,,25/08/2026 05:25
@@ -641,6 +652,7 @@ f5b35bc8-4713-437e-bf9b-25c66539b18a,sewn.download,available,5.25,6.25,high,low,
 7d94b921-684f-4777-b6e8-4155db81d8f6,boot.download,premium,437.5,,high,low,4,name.com,,,
 d72a9b5a-aa13-41c3-885b-45f170e187ae,knife.download,premium,116,29.5,high,low,5,namesilo,,,25/09/2026 23:24
 ed3c8879-67be-4673-80d0-38e435f85a79,asshole.download,premium,437.5,62.5,medium,low,7,name.com,,,08/08/2026 23:24
+283bb47d-b503-42f6-aedc-030ae636f48d,switched.download,premium,448,53.92,medium,low,8,namesilo,,,27/09/2026 09:43
 b68bbb87-dfeb-498e-9a4d-b090366ebf9b,taxa.download,available,5.25,6.25,medium,low,4,namesilo,,,25/09/2026 17:29
 2ffe75f6-5a97-4e51-9117-f106ac94b08f,ideologic.download,available,5.98,9.98,medium,low,9,namecheap,,,21/08/2026 18:04
 4249c9d4-7760-4384-8d71-575bc1af926e,knower.download,available,5.25,6.25,medium,low,6,namesilo,,,19/09/2026 22:14
@@ -676,6 +688,7 @@ fe87c3fa-6189-4b98-abb1-ae7532fc494e,fluvial.download,available,5.25,6.25,medium
 6bfc4361-3376-4b95-a99c-c3038327d637,carte.download,premium,448,53.92,high,low,5,namesilo,,,23/09/2026 16:04
 54f28505-8ae1-4b9f-b37b-a1bbeb27c7f2,silvervine.download,available,5.25,6.25,medium,low,10,namesilo,,,17/09/2026 04:49
 9b7efcc9-bcd1-48dd-80f1-c6e4e42eca3f,wed.download,premium,640,77.35,high,low,3,namesilo,,,13/09/2026 09:28
+33f3df32-9dfc-49ad-ae90-13a79337b3b6,ngo.download,premium,640,77.35,high,low,3,namesilo,,,27/09/2026 04:51
 81b86a1a-246e-4320-989b-f1b7a19c6a9d,phantasy.download,premium,437.5,62.5,high,low,8,name.com,,,17/08/2026 21:58
 2676723f-82bd-4e7b-bea6-15ac6255149a,breakaway.download,premium,437.5,62.5,high,low,9,name.com,,,11/08/2026 03:01
 85010167-e11a-4f3c-9991-00a41011ce84,whoreson.download,available,5.25,6.25,low,low,8,namesilo,,,08/08/2026 23:43
@@ -734,6 +747,7 @@ fcebb314-8f1d-4ac9-bda9-b03aab861b96,unhappy.download,available,5.25,6.25,high,l
 a14950d9-f34b-4389-b12b-942a2c96d27c,ingrown.download,available,5.25,6.25,medium,low,7,namesilo,,,22/08/2026 04:56
 c31c4ab6-d40d-4270-b1ff-6af851800acb,sucked.download,available,5.25,6.25,medium,low,6,namesilo,,,18/09/2026 04:29
 f382a47d-821a-4136-a764-3855ae314edf,nagging.download,available,5.25,6.25,medium,low,7,namesilo,,,03/09/2026 12:41
+2a7fc99e-7c6b-4591-a1a9-aa9de5c4086e,policeman.download,available,5.25,6.25,high,low,9,namesilo,,,27/09/2026 05:03
 5ba707b2-e085-4a9b-80ce-e66b2b4536df,midway.download,premium,437.5,62.5,high,low,6,name.com,,,11/08/2026 23:58
 2a1f0660-41f6-4748-b264-288cb32b7686,arthur.download,premium,448,53.92,high,low,6,namesilo,,,20/09/2026 10:45
 188b01c8-ac52-49b0-822c-2e7a1b020dc3,glinting.download,available,5.25,6.25,high,low,8,namesilo,,,
@@ -749,6 +763,7 @@ bc4defab-706d-43a1-b2f2-6928a15d4f7a,perplexed.download,available,5.98,9.98,medi
 3869b472-0a4b-49c3-8d9a-7c079a1f81e0,assess.download,premium,437.5,,high,low,6,name.com,,,
 04c67c72-7775-4fe5-9b08-02bdad8a2fe3,bikini.download,premium,3250,130,high,low,6,namecheap,,,23/09/2026 15:38
 d00d69b1-e252-4ca1-bd78-c71796084df8,shinto.download,premium,448,53.92,high,medium,6,namesilo,,,10/09/2026 06:32
+781f679b-e010-42d5-9f6a-7c7fd55a3466,wilbur.download,premium,448,53.92,high,low,6,namesilo,,,27/09/2026 07:43
 43554914-bc72-450c-a4f3-883b210cf39b,goldberg.download,premium,448,53.92,high,low,8,namesilo,,,25/09/2026 06:35
 d8ce686b-b89e-44cf-b179-e6794aafc205,prim.download,premium,437.5,62.5,high,low,4,name.com,,,13/08/2026 15:46
 dc418119-6031-4004-80d1-a2ebed2f4374,erratic.download,premium,437.5,62.5,high,low,7,name.com,,,17/08/2026 12:46
@@ -774,8 +789,10 @@ a6c0c906-52f1-4e59-b097-60749854697c,tactically.download,available,5.98,9.98,med
 1e6860ba-4033-451c-bef8-78b2efadc564,blush.download,premium,437.5,62.5,high,low,5,name.com,,,13/08/2026 06:32
 5ec69ec3-54ab-4986-8377-38e45fd70000,bitterroot.download,available,5.25,6.25,medium,low,10,namesilo,,,23/09/2026 23:08
 1e23512d-73be-439e-bb43-6efcc719ee3c,heady.download,premium,437.5,62.5,medium,low,5,name.com,,,18/08/2026 10:29
+09217b9f-6949-4c5a-8a06-8bd30ba44419,francois.download,available,5.25,6.25,high,low,8,namesilo,,,27/09/2026 07:39
 f8fa6249-47d0-4c0b-8700-eaa5e5b94b8e,incapable.download,available,5.25,6.25,medium,low,9,namesilo,,,22/08/2026 00:49
 5a34bc59-5d06-43d6-b9b2-cb28505f03e2,evelyn.download,premium,448,53.92,high,low,6,namesilo,,,25/09/2026 14:39
+e824f359-62ea-4f44-91e3-51a08d96ba45,strings.download,premium,448,53.92,high,low,7,namesilo,,,27/09/2026 05:33
 71f5cceb-96cb-4e6b-9442-4c7d22b8dbb3,amphibian.download,premium,437.5,62.5,high,low,9,name.com,,,
 187d782d-c2d1-4114-a635-16168263ef3c,luanda.download,available,5.25,6.25,medium,low,6,namesilo,,,19/09/2026 06:58
 3d9e49d0-683f-47f5-8126-72ba3b053d00,recalled.download,available,5.25,6.25,medium,low,8,namesilo,,,18/09/2026 02:40
@@ -841,8 +858,9 @@ c4dac9e6-9f5a-40e0-a9d4-1bef26324ab7,concerts.download,premium,640,77.35,high,lo
 47175c64-a498-450c-94c9-95af51c60643,norfolk.download,premium,437.5,,high,low,7,name.com,,,
 4e3ddf8c-92e5-4469-bdbf-a57e450df6e9,resentful.download,available,5.25,6.25,medium,low,9,namesilo,,,09/09/2026 14:48
 8b84db09-f565-4535-9fbf-c28046ffdcb3,clustered.download,available,5.25,6.25,high,low,9,namesilo,,,
-6dcb6567-bc74-4e93-8848-3b50c80c9cb4,sworn.download,available,5.25,6.25,high,low,5,namesilo,,,
+6dcb6567-bc74-4e93-8848-3b50c80c9cb4,sworn.download,available,5.25,6.25,high,low,5,namesilo,,,27/09/2026 04:14
 e10afe16-f4a6-4e4c-ab27-e5670526cd0b,chained.download,available,5.25,6.25,medium,low,7,namesilo,,,12/08/2026 01:23
+668108e2-179e-4f9d-89b2-51cffc88abdd,potatoes.download,available,5.98,9.98,medium,low,8,namecheap,,,27/09/2026 02:12
 99e2a81c-8309-448c-b505-e8caa2bb7782,account.download,premium,1107,116,high,low,7,namesilo,,,23/09/2026 08:11
 15300296-b310-45fe-86fc-534442f60f6a,hacking.download,premium,448,53.92,high,low,7,namesilo,,,25/09/2026 04:38
 2002cc6c-4905-4002-ade5-6adcc2b0fee4,lillian.download,premium,448,53.92,medium,low,7,namesilo,,,26/09/2026 03:34
@@ -855,7 +873,7 @@ c2367a80-c9d9-4d9d-b292-8fabc9b286d5,blackfoot.download,premium,448,53.92,high,l
 da58bb99-e0af-439e-af32-0d42c5e37aa5,anonymity.download,premium,448,53.92,high,low,9,namesilo,,,19/09/2026 11:38
 52b84fd0-301a-4f74-bbf9-eca5ffa5654b,community.download,premium,116,29.5,high,medium,9,namesilo,,,08/09/2026 12:57
 f7a956f2-5f97-4287-9f65-837379b88e01,goonie.download,available,5.25,6.25,medium,low,6,namesilo,,,23/09/2026 23:45
-3164ffa2-2499-4d7a-8e7b-8fc32d4a0152,peaceful.download,available,5.25,6.25,high,low,8,namesilo,,,
+3164ffa2-2499-4d7a-8e7b-8fc32d4a0152,peaceful.download,available,5.25,6.25,high,low,8,namesilo,,,27/09/2026 03:13
 d5ac0a81-1c09-41ba-b2c5-59a49afe34eb,prayers.download,premium,448,53.92,high,low,7,namesilo,,,18/09/2026 03:21
 5aa1aea0-33c9-4e30-977f-0e081fdba3b7,liked.download,available,5.98,9.98,high,low,5,namecheap,,,25/09/2026 13:43
 08ff4721-5fc0-46c2-bcb8-5d7e1f5da381,ruffled.download,premium,437.5,62.5,medium,low,7,name.com,,,18/08/2026 15:53
@@ -872,7 +890,7 @@ c852cde2-785b-4d4a-a7a1-6d300b7eb862,wide.download,premium,448,53.92,high,low,4,
 98121691-1d0d-4a24-a76b-10d6928836b8,saliferous.download,available,5.98,9.98,high,medium,10,namecheap,,,09/09/2026 20:52
 f13d652d-5585-4086-9f37-fe5cbfcec4ef,unmediated.download,available,5.25,6.25,medium,low,10,namesilo,,,12/09/2026 15:32
 e16ceb77-1507-4348-9a5a-f6d26cf28382,powerful.download,premium,640,77.35,high,low,8,namesilo,,,23/09/2026 09:23
-3677b37f-7502-4ef5-ad15-a2c94bb0f024,toilet.download,premium,437.5,,high,low,6,name.com,,,
+3677b37f-7502-4ef5-ad15-a2c94bb0f024,toilet.download,premium,448,53.92,high,low,6,namesilo,,,27/09/2026 04:48
 23f51b66-ef87-4321-a912-2ceda6a058d6,leasing.download,available,5.25,6.25,high,low,7,namesilo,,,
 f5765e37-aeef-435d-930d-22628326bdcf,uncommon.download,premium,448,53.92,high,low,8,namesilo,,,12/09/2026 05:57
 f250f5f7-f12d-44b3-a8fc-8e4f77362094,testate.download,available,5.25,6.25,medium,low,7,namesilo,,,11/09/2026 12:00
@@ -894,6 +912,7 @@ df2f7da2-200b-49d1-9dfb-4fb8c42e5e2f,addendum.download,premium,448,53.92,high,lo
 52619122-4200-49fc-b636-84bbfed21738,linger.download,premium,448,53.92,medium,low,6,namesilo,,,11/09/2026 08:37
 9b8d69b7-69e6-44ea-a471-1e7e2cced558,alto.download,premium,437.5,62.5,high,low,4,name.com,,,
 f8b8ef88-bf15-4a5d-a66c-db127f2d3620,sweptwing.download,available,5.25,6.25,medium,low,9,namesilo,,,11/09/2026 05:46
+1962b1b7-56f1-47cd-a191-34f6fbb9db8f,grows.download,premium,448,53.92,medium,low,5,namesilo,,,27/09/2026 10:10
 2110c068-8266-4248-8af0-f60bebdb7f52,barnes.download,premium,455,65,high,low,6,namecheap,,,25/09/2026 21:08
 f6a97ed5-89bc-495d-ad5d-7a8cc60187b7,narrowing.download,available,5.25,6.25,high,low,9,namesilo,,,12/08/2026 23:00
 2368ceb0-d96d-48b8-8867-47fc38a12af2,akhenaten.download,available,5.25,6.25,medium,low,9,namesilo,,,17/09/2026 23:57
@@ -924,17 +943,20 @@ c33c62c8-bbf4-46f8-98bf-0e0b65e0c003,hanson.download,premium,455,65,high,low,6,n
 fd88e3dc-f55b-4512-a170-ea49beec9509,crisp.download,premium,455,65,high,low,5,namecheap,,,24/09/2026 01:53
 e5cbbe09-3ee8-49be-90d0-dbdcaad3f914,medals.download,available,5.25,6.25,high,low,6,namesilo,,,
 84de06b6-d3b0-495d-b4e1-e7f0b990427d,mouthguard.download,available,9.98,,medium,low,11,namecheap,,,
+de25e7ca-b832-4c3e-ba23-19b9b2834b24,lungs.download,available,5.25,6.25,medium,low,5,namesilo,,,27/09/2026 02:43
 9fa3d453-f0a8-4b40-8225-0cbc4f3dad19,cable.download,premium,116,29.5,high,low,5,namesilo,,,24/09/2026 11:34
 36b73568-fba4-4dbb-bf3d-f1e995d1f197,iterative.download,available,5.25,6.25,high,low,9,namesilo,,,22/08/2026 11:39
 1d7bdcce-ccd8-4b09-ac06-d271458953de,attila.download,premium,448,53.92,high,low,6,namesilo,,,21/09/2026 01:47
 fcd5024e-49eb-4d37-9ca9-4d55c0705767,proteins.download,available,5.25,6.25,medium,low,8,namesilo,,,08/09/2026 07:13
 7bebb41c-aecb-47b9-a7c6-dc9003608080,naseby.download,available,5.98,9.98,medium,low,6,namecheap,,,22/09/2026 15:31
 e25f3e78-e543-4180-85e3-2a46dcd7f3df,wry.download,premium,625,81.25,high,low,3,name.com,,,22/08/2026 10:08
+9d57ea1f-32ca-44a0-974c-8c09849fd4a8,prefer.download,premium,116,29.5,high,low,6,namesilo,,,27/09/2026 03:54
 333d7949-dee6-4e43-a8a4-d66a331629aa,haggai.download,premium,448,53.92,medium,low,6,namesilo,,,17/09/2026 17:22
 740501a4-a7b7-48ac-8da2-1d20b9698896,castor.download,premium,116,29.5,medium,low,6,namesilo,,,18/09/2026 13:36
 06a86148-3e98-4488-b4bd-6fe7c0c200e4,highbrow.download,premium,437.5,62.5,high,low,8,name.com,,,21/08/2026 09:09
 314f2c2b-dc07-4129-86ea-ac8a301856a7,lidless.download,available,5.25,6.25,medium,low,7,namesilo,,,23/08/2026 01:17
 74b3a43e-1edd-42b4-8e14-5d15405e49e2,reportedly.download,premium,448,53.92,medium,low,10,namesilo,,,15/09/2026 23:15
+5bf6e7c2-a426-4bd7-b0d2-58f1a6866308,viet.download,premium,640,77.35,high,low,4,namesilo,,,27/09/2026 07:07
 4799b053-d264-47d1-bd63-bcaf7bb119b5,apoidea.download,premium,455,65,medium,low,7,namecheap,,,19/09/2026 18:38
 1c566fdd-37f9-4c2a-a77b-132cfb36d5a9,scandent.download,available,5.25,6.25,medium,low,8,namesilo,,,09/09/2026 22:32
 91f628a1-0470-442c-acf6-3f371739b804,arcus.download,premium,448,53.92,high,low,5,namesilo,,,20/09/2026 03:02
@@ -968,34 +990,12 @@ c6098f0e-2367-40c3-9eab-64dca288eb4c,managers.download,premium,650,84.5,medium,l
 8ed4fd08-cb5b-46cf-9124-1014dbee27a6,sensational.download,premium,437.5,,high,low,11,name.com,,,
 757e2c8a-58f8-43ba-8d46-b0797fb45003,citric.download,available,5.25,6.25,high,low,6,namesilo,,,12/08/2026 08:54
 b14d921c-26ce-44b8-8b14-6f4acc3ede78,fundament.download,available,5.25,6.25,medium,low,9,namesilo,,,09/08/2026 10:59
+e5c29d9f-7f9e-43b2-988b-61660dc75121,deals.download,premium,640,77.35,high,low,5,namesilo,,,27/09/2026 10:04
 c5b22e03-8ce7-4f96-9594-fe46d76d6464,practically.download,available,5.25,6.25,high,low,11,namesilo,,,25/09/2026 11:39
 02d57a3a-24c0-4d70-8ff6-34a5a2541139,steakhouse.download,premium,448,53.92,high,low,10,namesilo,,,24/09/2026 14:46
 27879463-019e-4105-9f7d-afd22fbfb998,commend.download,premium,437.5,,high,low,7,name.com,,,
 2cfad5ef-a2e1-4825-8668-ff3d31a2eb84,dana.download,premium,116,29.5,high,low,4,namesilo,,,25/09/2026 22:21
 ba5e3c2b-c3de-4444-bd4a-349ef713e27a,lunched.download,available,34.99,37.99,medium,low,7,name.com,,,21/09/2026 04:17
 5f003a9a-1546-49d7-9045-a93a257897c0,reverent.download,available,5.25,6.25,high,low,8,namesilo,,,20/08/2026 16:08
-19724f8c-e7e1-4e83-bd6e-69f294e1ca51,chased.download,available,5.25,6.25,high,low,6,namesilo,,,
+19724f8c-e7e1-4e83-bd6e-69f294e1ca51,chased.download,available,5.25,6.25,high,low,6,namesilo,,,27/09/2026 08:31
 bce67082-736d-4a51-929d-fa403d36e5b9,damascene.download,premium,437.5,62.5,high,low,9,name.com,,,13/08/2026 16:07
-08cffe1d-83a3-432a-87a2-7e30f0654159,accuracy.download,available,5.98,9.98,high,low,8,namecheap,,,16/09/2026 23:21
-76966838-5cb5-480a-ab6a-4a30e4c065df,imbricate.download,available,5.98,9.98,medium,low,9,namecheap,,,21/08/2026 20:35
-4dc7dec5-0c7f-44e4-9ed4-c0f870d0f705,opportune.download,premium,448,53.92,high,low,9,namesilo,,,04/09/2026 16:43
-32096d0d-3393-4116-98de-db020b7ba00a,bimbo.download,premium,455,65,high,low,5,namecheap,,,23/09/2026 16:54
-91093a1e-9bd3-45a6-b59f-4ab51bbed748,usable.download,available,5.25,6.25,high,low,6,namesilo,,,12/09/2026 23:59
-b2a1c1e0-b93d-44a7-8f35-8afd3010e3bf,impaired.download,available,5.98,9.98,medium,low,8,namecheap,,,21/08/2026 21:40
-2c91acaa-bddb-4a77-9cad-f40270650e29,tipsy.download,premium,448,53.92,high,low,5,namesilo,,,11/09/2026 15:38
-e655f1b6-0e34-4d88-90b4-bfbb64c4463e,treelike.download,available,5.25,6.25,medium,low,8,namesilo,,,06/08/2026 14:01
-1b46726f-66ac-4d47-a7b9-95fa135efca4,soled.download,premium,448,53.92,medium,low,5,namesilo,,,10/09/2026 13:35
-1403ad08-7098-48b8-bc8f-4180904c1db0,stingless.download,available,5.25,6.25,medium,low,9,namesilo,,,10/09/2026 20:48
-7b21b39d-9b79-4419-a1f4-4b3df7dcdfed,doglike.download,available,5.25,6.25,medium,low,7,namesilo,,,14/08/2026 15:07
-22d99e8e-8bc7-4a73-8502-d8cd3c58aec9,engaging.download,available,5.25,6.25,high,low,8,namesilo,,,17/08/2026 07:36
-532ae9f6-20ec-4eab-8313-71701240c588,placement.download,premium,448,53.92,high,low,9,namesilo,,,09/09/2026 00:08
-380aca0b-38c6-401b-9bdd-373c3e2ac725,mothers.download,premium,455,65,high,low,7,namecheap,,,18/09/2026 06:34
-f5f25c83-f83c-49e7-9540-20281af96cba,funeral.download,premium,116,29.5,high,low,7,namesilo,,,25/09/2026 22:54
-88554eba-0f84-4ad5-89a3-d6eb76a2d955,scent.download,premium,116,29.5,high,low,5,namesilo,,,20/09/2026 08:28
-443e0d07-07b4-4f14-a7e2-6603c6189fc9,hyoid.download,available,5.25,6.25,medium,low,5,namesilo,,,21/08/2026 16:35
-c5306696-6b2e-4278-80b3-ddaccd956b61,parties.download,premium,116,29.5,high,low,7,namesilo,,,17/09/2026 10:18
-af923d49-1899-4baf-9ca1-ef6484a8a371,those.download,available,5.25,6.25,medium,low,5,namesilo,,,
-a0c2444f-d22f-4efc-9cfe-81f05d1fd105,unrigged.download,available,5.98,9.98,medium,low,8,namecheap,,,12/09/2026 18:28
-4b45211d-ecbf-48e6-b54b-d0372a05c21f,apr.download,premium,640,77.35,high,low,3,namesilo,,,19/09/2026 22:28
-c0c47cf2-0b34-410c-995a-f9cbe4fa5359,endermatic.download,available,5.25,6.25,medium,low,10,namesilo,,,17/08/2026 00:58
-14237e52-fa5f-45f4-886d-8fec667edcc1,tunguska.download,available,5.25,6.25,medium,low,8,namesilo,,,19/09/2026 05:45
